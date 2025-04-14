@@ -1,0 +1,14 @@
+[package]
+name = "env_var_helpers"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "Macros and functions that help provide access to environment variable values."
+repository = "https://github.com/coruscateor/env_var_helpers"
+homepage = "https://coruscateor.com/projects/env-var-helpers"
+keywords = ["environment", "variable", "helpers", "functions", "cargo"]
+authors = ["Paul Saunders"]
+
+[dependencies]
+#casey = "0.4.2"
+paste = "1.0.15"
